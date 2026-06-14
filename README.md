@@ -2,7 +2,7 @@
 
 A sleek, responsive, and lightweight personal portfolio website built with semantic HTML5 and standard CSS3. This project serves as a centralized digital hub to showcase my front-end development capabilities, technical skills, production-ready projects, and professional background.
 
-Live Demo: [https://anwarjhanshaik.github.io/Personal-portfolio-/]
+Live Demo: [https://anwarjhanshaik.github.io/Personal_Portfolio/]
 
 ---
 
